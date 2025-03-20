@@ -10,7 +10,8 @@ This repository contains resources related to papers on Formal Verification, wit
 - [Operating System Verification](Papers/OS%20Verify/)
 - [Program Verification](Papers/Program%20Verification/)
 - [SAT Solving](Papers/SAT%20Solving/)
-- [SMT Solving](Papers/SMT%20String/)
+- [SMT Solving](Papers/SMT%20Solving/)
+- [Large Language Models & Formal Methods](Papers/LLM4FM/)
 
 ## Posts
 Please refer to my zhihu blog for more information: https://zhuanlan.zhihu.com/column/c_1885731765257229339
