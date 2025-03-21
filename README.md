@@ -12,6 +12,11 @@ This repository contains resources related to papers on Formal Verification, wit
 - [SAT Solving](Papers/SAT%20Solving/)
 - [SMT Solving](Papers/SMT%20Solving/)
 - [Large Language Models & Formal Methods](Papers/LLM4FM/)
-
+- [Distributed System](Papers/Distributed%20System/)
+- 
 ## Posts
 Please refer to my zhihu blog for more information: https://zhuanlan.zhihu.com/column/c_1885731765257229339
+
+## Note Logs
+- **2025-03-21**: [SOSP'19: I4: Incremental Inference of Inductive Invariants for
+Verification of Distributed Protocols](Notes/2019SOSP_I4%20Incremental%20Inference%20of%20Inductive%20Invariants%20for.md)
